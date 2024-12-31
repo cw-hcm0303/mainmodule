@@ -1,3 +1,4 @@
 [submodule "init-db"]
 	path = init-db
 	url = git@github.com:cw-hcm0303/submodule.git
+	branch = feat/test
